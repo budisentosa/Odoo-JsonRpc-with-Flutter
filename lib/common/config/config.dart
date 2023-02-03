@@ -4,7 +4,8 @@ class Config {
   Config._();
 
   ///Odoo URLs
-  static const String OdooDevURL = "https://7983981-14-0-all.runbot36.odoo.com/";
+  // static const String OdooDevURL = "https://7983981-14-0-all.runbot36.odoo.com/";
+  static const String OdooDevURL = "https://store.fluffy.id/";
   static const String OdooProdURL = "https://7983981-14-0-all.runbot36.odoo.com/";
   static const String OdooUATURL = "https://7983981-14-0-all.runbot36.odoo.com/";
 
@@ -29,5 +30,5 @@ class Config {
   static const int SIGNIN = 1;
   static const String CURRENCY_SYMBOL = "€";
   static String FCM_TOKEN = "";
-  static String DB = "";
+  static String DB = "fluffyjkt_test01";
 }

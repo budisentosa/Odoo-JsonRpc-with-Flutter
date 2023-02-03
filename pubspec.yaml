@@ -19,11 +19,13 @@ dependencies:
   device_info: ^2.0.2
   dio: ^4.0.0
   shared_preferences: ^2.0.6
-  get: ^4.1.4
+  get: ^4.6.5
   action_broadcast: ^3.0.1
   country_code_picker: ^2.0.1
   path_provider: ^2.0.2
   cached_network_image: ^3.0.0
+  modal_bottom_sheet: ^2.1.2
+  platform: ^3.1.0
 
 
 dev_dependencies:
@@ -72,33 +74,33 @@ flutter:
   assets:
     - assets/images/
 
-  
-  
-  
-  
 
-  
-  
 
-  
-  
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
